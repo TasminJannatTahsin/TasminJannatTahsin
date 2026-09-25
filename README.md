@@ -1,9 +1,12 @@
-👋 Hi, I'm Tasmin Tahsin
-Aspiring SQA Engineer | Manual Testing | API Testing | Database Testing | Performance Testing
+# 👋 Hi, I'm Tasmin Jannat Tahsin
 
-Building practical QA skills through hands-on testing projects and real-world web applications.
+### Aspiring SQA Engineer | Manual Testing | API Testing | Database Testing | Performance Testing | Automation Testing
 
-LinkedIn • GitHub
+**Building practical QA skills through hands-on testing projects and real-world web applications.**
+
+[LinkedIn](https://www.linkedin.com/in/tasmin-tahsin-164441215/) • [GitHub](https://github.com/TasminJannatTahsin?tab=repositories)
+
+---
 
 ## 🧪 About Me
 
