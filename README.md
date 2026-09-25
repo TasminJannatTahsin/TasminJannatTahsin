@@ -4,8 +4,7 @@
 
 **Building practical QA skills through hands-on testing projects and real-world web applications.**
 
-[LinkedIn](https://www.linkedin.com/in/tasmin-tahsin-164441215/) • [GitHub]([https://github.com/TasminJannatTahsin](https://github.com/TasminJannatTahsin?tab=repositories)
-
+[LinkedIn](https://www.linkedin.com/in/tasmin-tahsin-164441215/) • [GitHub]([https://github.com/TasminJannatTahsin])
 ---
 
 ## 🧪 About Me
