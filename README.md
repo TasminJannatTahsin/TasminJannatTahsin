@@ -158,9 +158,11 @@ Continuous QA Learning
 💻 [GitHub — TasminJannatTahsin](https://github.com/TasminJannatTahsin)
 
 ---
-📜 My CV
+📜 My CV:
 
 Interested in learning more about my skills, education, and experience?
+ 
+ [📄 View My CV](https://github.com/TasminJannatTahsin/TasminJannatTahsin/blob/main/CV%20of%20Tasmin%20Jannat%20Tahsin.docx)
 
-📄 View My CV:
+
 ### 🌱 Learn → Test → Find Bugs → Improve → Automate → Repeat
