@@ -71,7 +71,7 @@ Java · Selenium · Playwright · Appium · Cucumber · Jenkins
 
 ---
 
-• [MYProjects](https://github.com/TasminJannatTahsin?tab=repositories)  Visit my Repositories
+• [GitHub](https://github.com/TasminJannatTahsin?tab=repositories)  Visit my Repositories in GitHub
 
 ---
 
@@ -109,14 +109,14 @@ Java · Selenium · Playwright · Appium · Cucumber · Jenkins
 
 💻 [GitHub — TasminJannatTahsin](https://github.com/TasminJannatTahsin)
 
----
+
 ---
 📜MY CV:
 ---
 
 Interested in learning more about my skills, education, and experience?
  
- [📄View My CV](https://github.com/TasminJannatTahsin/TasminJannatTahsin/blob/main/CV%20of%20Tasmin%20Jannat%20Tahsin.docx)
+ •[📄View My CV](https://github.com/TasminJannatTahsin/TasminJannatTahsin/blob/main/CV%20of%20Tasmin%20Jannat%20Tahsin.docx)
 
-
+---
 ### 🌱 Learn → Test → Find Bugs → Improve → Automate → Repeat
