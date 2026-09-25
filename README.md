@@ -53,9 +53,7 @@ Java · Selenium · Playwright · Appium · Cucumber · Jenkins
 
 ---
 
-## 🚀 Featured Projects
-
-### 🧪 QA & Testing Projects
+### 🧪 QA & Testing Projects(Featured Projects)
 
 | **Project**                                       | **Skills & Focus**                                                                    |
 | ------------------------------------------------- | ------------------------------------------------------------------------------------- |
@@ -97,7 +95,6 @@ Java · Selenium · Playwright · Appium · Cucumber · Jenkins
 🔗 [LinkedIn — Tasmin Tahsin](https://www.linkedin.com/in/tasmin-tahsin-164441215/)
 
 💻 [GitHub — TasminJannatTahsin](https://github.com/TasminJannatTahsin)
-
 
 ---
 📜MY CV:
