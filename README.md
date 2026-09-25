@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tasmin Jannat Tahsin
 
-### Aspiring SQA Engineer | Manual Testing | API Testing | Database Testing | Performance Testing
+### Aspiring SQA Engineer | Manual Testing | API Testing | Database Testing | Performance Testing | Automation Testing
 
 **Building practical QA skills through hands-on testing projects and real-world web applications.**
 
@@ -83,7 +83,6 @@ Apache JMeter · Load Testing · Thread Groups · Ramp-Up Testing · Response Ti
 | 🗄️ **Database Testing**  | MySQL · SQL Queries · Data Integrity · PK/FK · JOIN                   |
 | ⚡ **Performance Testing** | JMeter · Load Testing · Ramp-Up · Response Time                       |
 | 🤖 **Automation Testing** | Currently learning and building automation testing skills             |
-| 🌐 **Web Testing**        | Functionality · Usability · Web Application Testing                   |
 
 ---
 
@@ -156,4 +155,4 @@ Continuous QA Learning
 
 ---
 
-### 🌱 Learn • Test • Automate • Improve
+### 🌱 Learn → Test → Find Bugs → Improve → Automate → Repeat
