@@ -20,7 +20,7 @@ My current goal is to strengthen my QA skills through **practical projects, API 
 
 ## 🛠️ Skills & Tools
 ### 🧪 Software Quality Assurance
-![Manual Testing](https://img.shields.io/badge/Manual%20Testing-2E7D32?style=for-the-badge)
+!Manual Testing (https://img.shields.io/badge/Manual%20Testing-2E7D32?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 ![Newman](https://img.shields.io/badge/Newman-FF6C37?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
