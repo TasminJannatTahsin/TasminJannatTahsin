@@ -4,7 +4,7 @@
 
 **Building practical QA skills through hands-on testing projects and real-world web applications.**
 
-[LinkedIn](https://www.linkedin.com/in/tasmin-tahsin-164441215/) • [GitHub](https://github.com/TasminJannatTahsin?tab=repositories) • [📄View My CV](https://github.com/TasminJannatTahsin/TasminJannatTahsin/blob/main/CV%20of%20Tasmin%20Jannat%20Tahsin.docx)
+[LinkedIn](https://www.linkedin.com/in/tasmin-tahsin-164441215/) • [GitHub](https://github.com/TasminJannatTahsin) • [📄View My CV](https://github.com/TasminJannatTahsin/TasminJannatTahsin/blob/main/CV%20of%20Tasmin%20Jannat%20Tahsin.docx)
 
 ---
 
@@ -69,6 +69,7 @@ Java · Selenium · Playwright · Appium · Cucumber · Jenkins
 | **API Testing Projects**                          | Postman · REST API · CRUD · Request/Response Validation · Assertions                  |
 |**API Testing Projects with data driven**          | Postman · REST API · CRUD · Request/Response Validation · Assertions     CSV file add  |
 
+ [MYProjects](https://github.com/TasminJannatTahsin?tab=repositories)
 ---
 
 ## 📊 Testing Areas
