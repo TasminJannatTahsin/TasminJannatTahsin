@@ -95,7 +95,17 @@ Java · Selenium · Playwright · Appium · Cucumber · Jenkins
 
 ## 📚 Currently Learning
 
-**Test Automation • Advanced API Testing • Performance Testing • Database Testing • Web Application Testing • QA Best Practices**
+**Test Automation
+
+• Advanced API Testing
+
+• Performance Testing
+
+• Database Testing
+
+• Web Application Testing
+
+• QA Best Practices**
 
 ---
 
