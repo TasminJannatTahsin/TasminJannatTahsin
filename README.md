@@ -14,7 +14,7 @@ I'm building my career in **Software Quality Assurance**, with hands-on experien
 
 I enjoy working with real-world web applications and practicing different testing techniques to understand application functionality, identify defects, validate data, and improve software quality.
 
-I have worked on practical projects involving like **E-Commerce Website Manual Testing, Hospital Management System Database Testing, Ecommerce Website database Testing,Rest API Testing such as Restfulbooker API and studet details API, API Testing with data driven, Performance Testing by using website URL and Rest API** etc.
+I have worked on practical projects involving like **Manual and database Testing of Website, Hospital Management System Database Testing, Rest API Testing such as Restfulbooker API and studet details API, API Testing with data driven, Performance Testing by using website URL and Rest API** etc.
 
 My current goal is to strengthen my QA skills through **practical projects, API testing, performance testing, and test automation**.
 
@@ -45,7 +45,7 @@ MySQL · CRUD Testing · Primary Key Testing · Foreign Key Testing · Data Inte
 
 **Performance Testing:**
 
-Apache JMeter · Load Testing · Thread Groups · Ramp-Up Testing · Response Time Analysis · `.jtl` Result Analysis
+Apache JMeter · Load Testing · Stress Testing · Spike Testing ·Endurance Testing · Thread Groups · Ramp-Up Testing · Response Time Analysis · `.jtl` Result Analysis
 
 **Automstion Testing:**
 
@@ -60,9 +60,9 @@ Java · Selenium · Playwright · Appium · Cucumber · Jenkins
 | **E-Commerce Website — Manual Testing**           | Test Cases · Test Scenarios · Functional Testing · Bug Reporting · Regression Testing |
 | **E-Commerce Website — Database Testing**         | MySQL · CRUD · PK/FK · JOIN · Aggregate Functions · Order & Payment Validation        |
 | **Hospital Management System — Database Testing** | MySQL · Database Validation · CRUD · Constraints · Relationships · Data Integrity     |
-| **Zero Bank — Performance Testing**               | Apache JMeter · Load Testing · Stress Testing · Spike Testing ·Endurance Testing· Thread Groups · Ramp-Up · Response Time · `.jtl` |
-|**ToolsQA — Performance Testing**                  | Apache JMeter · Load Testing · Stress Testing · Spike Testing ·Endurance Testing· Thread Groups · Ramp-Up · Response Time · `.jtl` |
-|**Rest API — Performance Testing**                 | Apache JMeter · Load Testing · Stress Testing · Spike Testing ·Endurance Testing· Thread Groups · Ramp-Up · Response Time · `.jtl` |     
+| **Zero Bank — Performance Testing**               | Apache JMeter · Load Testing · Stress Testing · Spike Testing · Endurance Testing · Thread Groups · Ramp-Up · Response Time · `.jtl` |
+|**ToolsQA — Performance Testing**                  | Apache JMeter · Load Testing · Stress Testing · Spike Testing · Endurance Testing · Thread Groups · Ramp-Up · Response Time · `.jtl` |
+|**Rest API — Performance Testing**                 | Apache JMeter · Load Testing · Stress Testing · Spike Testing · Endurance Testing · Thread Groups · Ramp-Up · Response Time · `.jtl` |     
 | **API Testing Projects**                          | Postman · REST API · CRUD · Request/Response Validation · Assertions                  |
 |**API Testing Projects with data driven**          | Postman · REST API · CRUD · Request/Response Validation · Assertions     CSV file add  |
 
