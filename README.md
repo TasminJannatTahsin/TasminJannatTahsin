@@ -133,24 +133,6 @@ I'm creating practical QA portfolio projects to demonstrate my ability to:
 
 ---
 
-## 📈 QA Testing Journey
-
-```text
-Manual Testing
-      ↓
-API Testing
-      ↓
-Database Testing
-      ↓
-Performance Testing
-      ↓
-Automation Testing
-      ↓
-Continuous QA Learning
-```
-
----
-
 ## 📫 Connect With Me
 
 🔗 [LinkedIn — Tasmin Tahsin](https://www.linkedin.com/in/tasmin-tahsin-164441215/)
@@ -158,11 +140,12 @@ Continuous QA Learning
 💻 [GitHub — TasminJannatTahsin](https://github.com/TasminJannatTahsin)
 
 ---
-📜 My CV:
+
+📜MY CV:
 
 Interested in learning more about my skills, education, and experience?
  
- [📄 View My CV](https://github.com/TasminJannatTahsin/TasminJannatTahsin/blob/main/CV%20of%20Tasmin%20Jannat%20Tahsin.docx)
+ [📄View My CV](https://github.com/TasminJannatTahsin/TasminJannatTahsin/blob/main/CV%20of%20Tasmin%20Jannat%20Tahsin.docx)
 
 
 ### 🌱 Learn → Test → Find Bugs → Improve → Automate → Repeat
