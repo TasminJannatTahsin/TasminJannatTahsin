@@ -27,6 +27,7 @@ My current goal is to strengthen my QA skills through **practical projects, API 
 ![Newman](https://img.shields.io/badge/Newman-FF6C37?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge\&logo=apachejmeter\&logoColor=white)
+![Automation Testing](https://img.shields.io/badge/Automation%20Testing-2E7D32?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
@@ -147,5 +148,9 @@ Continuous QA Learning
 💻 [GitHub — TasminJannatTahsin](https://github.com/TasminJannatTahsin)
 
 ---
+📜 My CV
 
+Interested in learning more about my skills, education, and experience?
+
+📄 View My CV:
 ### 🌱 Learn → Test → Find Bugs → Improve → Automate → Repeat
