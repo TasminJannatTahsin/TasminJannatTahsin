@@ -10,9 +10,7 @@
 
 ## 🧪 About Me
 
-I'm building my career in **Software Quality Assurance**, with hands-on experience in  Testing. 
-
-I enjoy working with real-world web applications and practicing different testing techniques to understand application functionality, identify defects, validate data, and improve software quality.
+I'm building my career in **Software Quality Assurance**, with hands-on experience in  Testing.I enjoy working with real-world web applications and practicing different testing techniques to understand application functionality, identify defects, validate data, and improve software quality.
 
 I have worked on practical projects involving like **Manual and database Testing of Website, Hospital Management System Database Testing, Rest API Testing such as Restfulbooker API and studet details API, API Testing with data driven, Performance Testing by using website URL and Rest API** etc.
 
@@ -22,7 +20,7 @@ My current goal is to strengthen my QA skills through **practical projects, API 
 
 ## 🛠️ Skills & Tools
 ### 🧪 Software Quality Assurance
-![Manual Testing](//img.shields.io/badge/Manual%20Testing-2E7D32?style=for-the-badge)
+![Manual Testing](https://img.shields.io/badge/Manual%20Testing-2E7D32?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 ![Newman](https://img.shields.io/badge/Newman-FF6C37?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
