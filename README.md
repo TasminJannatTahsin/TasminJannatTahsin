@@ -14,7 +14,7 @@ I'm building my career in **Software Quality Assurance**, with hands-on experien
 
 I enjoy working with real-world web applications and practicing different testing techniques to understand application functionality, identify defects, validate data, and improve software quality.
 
-I have worked on practical projects involving **E-Commerce Website Testing, Hospital Management System Database Testing, and Zero Bank Performance Testing**.
+I have worked on practical projects involving like **E-Commerce Website Testing, Hospital Management System Database Testing, and Zero Bank Performance Testing** etc.
 
 My current goal is to strengthen my QA skills through **practical projects, API testing, performance testing, and test automation**.
 
