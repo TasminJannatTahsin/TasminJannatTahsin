@@ -14,7 +14,7 @@ I'm building my career in **Software Quality Assurance**, with hands-on experien
 
 I enjoy working with real-world web applications and practicing different testing techniques to understand application functionality, identify defects, validate data, and improve software quality.
 
-I have worked on practical projects involving like **E-Commerce Website Testing, Hospital Management System Database Testing, and Zero Bank Performance Testing** etc.
+I have worked on practical projects involving like **E-Commerce Website Manual Testing, Hospital Management System Database Testing, Ecommerce Website database Testing,Rest API Testing such as Restfulbooker API and studet details API, API Testing with data driven,Performance Testing by using website URL  and Rest API** etc.
 
 My current goal is to strengthen my QA skills through **practical projects, API testing, performance testing, and test automation**.
 
@@ -63,8 +63,11 @@ Java · Selenium · Playwright · Appium · Cucumber · Jenkins
 | **E-Commerce Website — Manual Testing**           | Test Cases · Test Scenarios · Functional Testing · Bug Reporting · Regression Testing |
 | **E-Commerce Website — Database Testing**         | MySQL · CRUD · PK/FK · JOIN · Aggregate Functions · Order & Payment Validation        |
 | **Hospital Management System — Database Testing** | MySQL · Database Validation · CRUD · Constraints · Relationships · Data Integrity     |
-| **Zero Bank — Performance Testing**               | Apache JMeter · Load Testing · Thread Groups · Ramp-Up · Response Time · `.jtl`       |
+| **Zero Bank — Performance Testing**               | Apache JMeter · Load Testing · Stress Testing · Spike Testing ·Endurance Testing· Thread Groups · Ramp-Up · Response Time · `.jtl` |
+|**ToolsQA — Performance Testing**                  | Apache JMeter · Load Testing · Stress Testing · Spike Testing ·Endurance Testing· Thread Groups · Ramp-Up · Response Time · `.jtl` |
+|**Rest API — Performance Testing**                 | Apache JMeter · Load Testing · Stress Testing · Spike Testing ·Endurance Testing· Thread Groups · Ramp-Up · Response Time · `.jtl` |     
 | **API Testing Projects**                          | Postman · REST API · CRUD · Request/Response Validation · Assertions                  |
+|**API Testing Projects with data driven**          | Postman · REST API · CRUD · Request/Response Validation · Assertions     CSV file add  |
 
 ---
 
@@ -72,30 +75,17 @@ Java · Selenium · Playwright · Appium · Cucumber · Jenkins
 
 | **Area**                  | **Focus**                                                             |
 | ------------------------- | --------------------------------------------------------------------- |
-| 🧪 **Manual Testing**     | Test Cases · Test Scenarios · Functional Testing · Regression Testing |
+| 🧪 **Manual Testing**     | Test Cases · Test Scenarios · Bug Reporting · Functional Testing · Regression Testing |
 | 🔌 **API Testing**        | Postman · REST API · CRUD · Assertions · Data Validation              |
-| 🗄️ **Database Testing**  | MySQL · SQL Queries · Data Integrity · PK/FK · JOIN                   |
-| ⚡ **Performance Testing** | JMeter · Load Testing · Ramp-Up · Response Time                       |
+| 🗄️ **Database Testing**  | MySQL · SQL Queries · Data Integrity · PK/FK · JOIN  · Business Rules                    |
+| ⚡ **Performance Testing** | JMeter · Load Testing · Stress Testing · Spike Testing ·Endurance Testing· Ramp-Up · Response Time     |
 | 🤖 **Automation Testing** | Currently learning and building automation testing skills             |
-
----
-
-## 🎯 Current Focus
-
-| **Area**                  | **Focus**                                                        |
-| ------------------------- | ---------------------------------------------------------------- |
-| 🧪 **Manual QA**          | Test Cases · Test Scenarios · Bug Reporting · Regression Testing |
-| 🔌 **API Testing**        | Postman · CRUD · Assertions · Data Validation                    |
-| 🗄️ **Database Testing**  | MySQL · SQL · Data Integrity · Business Rules                    |
-| ⚡ **Performance Testing** | Apache JMeter · Load Testing · Performance Analysis              |
-| 🤖 **Automation Testing** | Learning Automation Testing · Building Practical Skills          |
-| 📁 **Portfolio Building** | Practical QA Projects · Documentation · Testing Reports          |
 
 ---
 
 ## 📚 Currently Learning
 
-**Test Automation
+**Test Automation:
 
 • Advanced API Testing
 
@@ -105,31 +95,7 @@ Java · Selenium · Playwright · Appium · Cucumber · Jenkins
 
 • Web Application Testing
 
-• QA Best Practices**
-
----
-
-## 💡 What I'm Building
-
-I'm creating practical QA portfolio projects to demonstrate my ability to:
-
-* Design and execute structured test cases
-* Create test scenarios for web applications
-* Identify and document software defects
-* Perform functional and regression testing
-* Test REST APIs using Postman
-* Validate API responses and data
-* Perform CRUD operations through API testing
-* Execute API collections using Newman
-* Work with MySQL databases
-* Validate primary and foreign key relationships
-* Test data integrity and consistency
-* Perform JOIN and aggregate query testing
-* Validate e-commerce orders and payments
-* Perform performance testing using Apache JMeter
-* Analyze response times and test results
-* Build and maintain QA documentation
-* Develop automation testing skills
+• QA Best Practices **
 
 ---
 
