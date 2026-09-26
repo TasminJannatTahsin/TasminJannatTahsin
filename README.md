@@ -46,11 +46,11 @@ My current goal is to strengthen my QA skills through **practical projects and t
 9. Data-Driven API Testing of Restful Booker API
 10. Data-Driven API Testing of StudentDetails API
 
-• [GitHub](https://github.com/TasminJannatTahsin?tab=repositories)  Visit my Repositories in GitHub
+• [GitHub](https://github.com/TasminJannatTahsin?tab=repositories)   Visit my Repositories in GitHub
 
 ---
 
-## 📊 Testing Areas
+## 📊 Testing Areas:
 
 | **Area**                  | **Focus**                                                             |
 | ------------------------- | --------------------------------------------------------------------- |
@@ -59,12 +59,6 @@ My current goal is to strengthen my QA skills through **practical projects and t
 | 🗄️ **Database Testing**  | MySQL · SQL Queries · Data Integrity · PK/FK · JOIN  · Business Rules                    |
 | ⚡ **Performance Testing** | JMeter · Load Testing · Stress Testing · Spike Testing ·Endurance Testing· Ramp-Up · Response Time     |
 | 🤖 **Automation Testing** | Currently learning and building automation testing skills             |
-
----
-
-## 📚 Currently Learning
-
-Building Automation Testing skills with Java, Selenium, playwright, Cucumber and Jenkins through hands on practices.
 
 ---
 
