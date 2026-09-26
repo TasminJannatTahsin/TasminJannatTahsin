@@ -4,11 +4,11 @@
 
 **Building practical QA skills through hands-on testing projects and real-world web applications.**
 
-• [LinkedIn](https://www.linkedin.com/in/tasmin-tahsin-164441215/)  • [📄View My CV](https://github.com/TasminJannatTahsin/TasminJannatTahsin/blob/main/CV%20of%20Tasmin%20Jannat%20Tahsin.docx)
+• [LinkedIn](https://www.linkedin.com/in/tasmin-tahsin-164441215/)  • [View My CV](https://github.com/TasminJannatTahsin/TasminJannatTahsin/blob/main/CV%20of%20Tasmin%20Jannat%20Tahsin.docx)
 
 ---
 
-## 🧪 About Me
+## 🧪 About Me:
 
 I'm building my career in **Software Quality Assurance**, with hands-on experience in  Testing.I enjoy working with real-world web applications and practicing different testing techniques to understand application functionality, identify defects, validate data, and improve software quality.
 
@@ -18,7 +18,7 @@ My current goal is to strengthen my QA skills through **practical projects and t
 
 ---
 
-## 🧪 QA & Software Testing Skills
+## 🧪 QA & Skills:
 
 |  Category                      |  Skills & Tools                                                                         |
 | --------------------------------- | ------------------------------------------------------------------------------------------ |
@@ -33,20 +33,18 @@ My current goal is to strengthen my QA skills through **practical projects and t
 
 ---
 
-### 🧪Featured Projects
+### 🧪Featured Projects:
 
-## 🚀 QA & Software Testing Projects
-
-1. 🖥️ **Manual Testing of a Website**
-2. 🗄️ **Database Testing of a Website**
-3. 🏥 **Database Testing of Hospital Management System**
-4. ⚡ **Performance Testing of ToolsQA Website**
-5. 🏦 **Performance Testing of Zero Bank Website**
-6. 🚀 **Performance Testing of Restful Booker API**
-7. 🔗 **API Testing of Restful Booker API**
-8. 🎓 **API Testing of StudentDetails API**
-9. 📊 **Data-Driven API Testing of Restful Booker API**
-10. 📊 **Data-Driven API Testing of StudentDetails API**
+1. Manual Testing of a Website
+2. Database Testing of a Website
+3. Database Testing of Hospital Management System
+4. Performance Testing of ToolsQA Website
+5. Performance Testing of Zero Bank Website
+6. Performance Testing of Restful Booker API
+7. API Testing of Restful Booker API
+8. API Testing of StudentDetails API
+9. Data-Driven API Testing of Restful Booker API
+10. Data-Driven API Testing of StudentDetails API
 
 • [GitHub](https://github.com/TasminJannatTahsin?tab=repositories)  Visit my Repositories in GitHub
 
