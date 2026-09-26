@@ -83,7 +83,7 @@ Java · Selenium · Playwright · Appium · Cucumber · Jenkins
 
 ## 📚 Currently Learning
 
-**Test Automation • Advanced API Testing • Performance Testing • Database Testing • Web Application Testing • QA Best Practices **
+Building Automation Testing skills with Java, Selenium, playwright, Cucumber and Jenkins through hands on practices.
 
 ---
 
