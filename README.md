@@ -14,7 +14,7 @@ I'm building my career in **Software Quality Assurance**, with hands-on experien
 
 I have worked on practical projects involving like **Manual and database Testing of Website, Hospital Management System Database Testing, Rest API Testing such as Restfulbooker API and studet details API, API Testing with data driven, Performance Testing by using website URL and Rest API** etc.
 
-My current goal is to strengthen my QA skills through **practical projects, API testing, performance testing, and test automation**.
+My current goal is to strengthen my QA skills through **practical projects and test automation**.
 
 ---
 
