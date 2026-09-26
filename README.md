@@ -1,4 +1,4 @@
- # 👋 Hi, I'm Tasmin Jannat Tahsin
+ki # 👋 Hi, I'm Tasmin Jannat Tahsin
 
 ### Aspiring SQA Engineer | Manual Testing | API Testing | Database Testing | Performance Testing | Automation Testing
 
@@ -54,11 +54,11 @@ My current goal is to strengthen my QA skills through **practical projects and t
 
 | **Area**                  | **Focus**                                                             |
 | ------------------------- | --------------------------------------------------------------------- |
-| 🧪 **Manual Testing**     | Test Cases · Test Scenarios · Bug Reporting · Functional Testing · Regression Testing |
+| 🧪 **Manual Testing**     | Test Plan · Test Cases · Test Scenarios · Bug Reporting ·RTM · Test Summary Report· Test matrices · Recommendations · Functional Testing · Regression Testing |
 | 🔌 **API Testing**        | Postman · REST API · CRUD · Assertions · Data Validation              |
-| 🗄️ **Database Testing**  | MySQL · SQL Queries · Data Integrity · PK/FK · JOIN  · Business Rules                    |
-| ⚡ **Performance Testing** | JMeter · Load Testing · Stress Testing · Spike Testing ·Endurance Testing· Ramp-Up · Response Time     |
-| 🤖 **Automation Testing** | Currently learning and building automation testing skills             |
+| 🗄️ **Database Testing**  | MySQL · SQL Queries · Data Integrity · Business Rules                    |
+| ⚡ **Performance Testing** | JMeter · Load Testing · Stress Testing · Spike Testing ·Endurance Testing· Ramp-Up · Response Time · Result Analysis |
+| 🤖 **Automation Testing** | Current Building automation testing skills with Java, Selenium , Playwright, Cucumber and Jenkins        |
 
 ---
 
