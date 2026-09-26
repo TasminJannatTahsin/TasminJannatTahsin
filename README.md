@@ -18,36 +18,19 @@ My current goal is to strengthen my QA skills through **practical projects and t
 
 ---
 
-## 🛠️ Skills & Tools
-### 🧪 Software Quality Assurance
-![Manual Testing](https://img.shields.io/badge/Manual%20Testing-2E7D32?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-![Newman](https://img.shields.io/badge/Newman-FF6C37?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge\&logo=apachejmeter\&logoColor=white)
-![Automation Testing](https://img.shields.io/badge/Automation%20Testing-2E7D32?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+## 🧪 QA & Software Testing Skills
 
-**Manual Testing:**
-
-Manual Testing · Functional Testing · Regression Testing · Smoke Testing · Test Scenarios · Test Case Design · Test Execution · Bug Reporting · RTM · Test Documentation
-
-**API Testing:**
-
-REST API Testing · CRUD Operations · Request/Response Validation · Postman · JavaScript Assertions · Data-Driven Testing · Newman
-
-**Database Testing:**
-
-MySQL · CRUD Testing · Primary Key Testing · Foreign Key Testing · Data Integrity · JOIN Queries · Aggregate Functions · GROUP BY · HAVING · Business Rule Validation · Boundary Value Testing
-
-**Performance Testing:**
-
-Apache JMeter · Load Testing · Stress Testing · Spike Testing ·Endurance Testing · Thread Groups · Ramp-Up Testing · Response Time Analysis · `.jtl` Result Analysis
-
-**Automstion Testing:**
-
-Java · Selenium · Playwright · Appium · Cucumber · Jenkins
+|  Category                      | 🛠️ Skills & Tools                                                                         |
+| --------------------------------- | ------------------------------------------------------------------------------------------ |
+|  **Testing**                    | Manual Testing • API Testing • Performance Testing • Database Testing • Automation Testing |
+|  **Documentation & Management** | Excel • Jira • XMind                                                                       |
+|  **API & JSON**                 | Postman • Newman • JSON • JSONPath Finder                                                  |
+|  **Performance & Web Testing**   | Lighthouse • BlazeMeter • JMeter                                                           |
+| **Database**                  | SQL • MySQL                                                                                |
+| **Programming**                 | Java                                                                                       |
+| **Automation**                 | Eclipse • Selenium • Playwright • Cucumber                                                 |
+|  **CI/CD**                      | Jenkins                                                                                    |
+|  **Version Control**            | Git • GitHub                                                                               |
 
 ---
 
@@ -55,15 +38,14 @@ Java · Selenium · Playwright · Appium · Cucumber · Jenkins
 
 | **Project**                                       | **Skills & Focus**                                                                    |
 | ------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| **E-Commerce Website — Manual Testing**           | Test Cases · Test Scenarios · Functional Testing · Bug Reporting · Regression Testing |
-| **E-Commerce Website — Database Testing**         | MySQL · CRUD · PK/FK · JOIN · Aggregate Functions · Order & Payment Validation        |
-| **Hospital Management System — Database Testing** | MySQL · Database Validation · CRUD · Constraints · Relationships · Data Integrity     |
-| **Zero Bank — Performance Testing**               | Apache JMeter · Load Testing · Stress Testing · Spike Testing · Endurance Testing · Thread Groups · Ramp-Up · Response Time · `.jtl` |
-|**ToolsQA — Performance Testing**                  | Apache JMeter · Load Testing · Stress Testing · Spike Testing · Endurance Testing · Thread Groups · Ramp-Up · Response Time · `.jtl` |
-|**Rest API — Performance Testing**                 | Apache JMeter · Load Testing · Stress Testing · Spike Testing · Endurance Testing · Thread Groups · Ramp-Up · Response Time · `.jtl` |     
-| **API Testing Projects**                          | Postman · REST API · CRUD · Request/Response Validation · Assertions                  |
-|**API Testing Projects with data driven**          | Postman · REST API · CRUD · Request/Response Validation · Assertions     CSV file add  |
-
+| **E-Commerce Website — Manual Testing**           | Test Plan · Test Cases · Test Scenarios · Bug Reporting · MindMap · RTM · Test summary Report · Test matrices · Recommendations · Test execution and documentation · Functional Testing · Regression Testing |
+| **E-Commerce Website — Database Testing**         | MySQL · CRUD Testing · Primary Key Testing · Foreign Key Testing · Data Integrity · JOIN Queries · Aggregate Functions · GROUP BY · HAVING · Business Rule Validation · Boundary Value Testing |
+| **Hospital Management System — Database Testing** | MySQL · CRUD Testing · Primary Key Testing · Foreign Key Testing · Data Integrity · JOIN Queries · Aggregate Functions · GROUP BY · HAVING · Business Rule Validation · Boundary Value Testing |
+| **Zero Bank — Performance Testing**               | Apache JMeter · Load Testing · Stress Testing · Spike Testing · Endurance Testing · Thread Groups · Ramp-Up · Response Time · `.jtl`· Result Analysis |
+|**ToolsQA — Performance Testing**                  | Apache JMeter · Load Testing · Stress Testing · Spike Testing · Endurance Testing · Thread Groups · Ramp-Up · Response Time · `.jtl` · Result Analysis |
+|**Rest API — Performance Testing**                 | Apache JMeter · Load Testing · Stress Testing · Spike Testing · Endurance Testing · Thread Groups · Ramp-Up · Response Time · `.jtl` · Result Analysis|     
+| **API Testing Projects**                          | Postman · newman · REST API Testing · CRUD Operations · Request/Response Validation · JavaScript Assertions  · Report Generation |
+|**API Testing Projects with data driven**          | Postman · newman · REST API Testing · CRUD Operations · Request/Response Validation · JavaScript Assertions · Data-Driven Testing with csv · Report Generation |
 
 • [GitHub](https://github.com/TasminJannatTahsin?tab=repositories)  Visit my Repositories in GitHub
 
