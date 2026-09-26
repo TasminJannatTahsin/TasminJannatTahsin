@@ -1,4 +1,4 @@
-ki # 👋 Hi, I'm Tasmin Jannat Tahsin
+# 👋 Hi, I'm Tasmin Jannat Tahsin
 
 ### Aspiring SQA Engineer | Manual Testing | API Testing | Database Testing | Performance Testing | Automation Testing
 
@@ -22,14 +22,15 @@ My current goal is to strengthen my QA skills through **practical projects and t
 
 |  Category                      |  Skills & Tools                                                                         |
 | --------------------------------- | ------------------------------------------------------------------------------------------ |
-|  **Testing**                      | Manual Testing • API Testing • Performance Testing • Database Testing • Automation Testing |
-|  **Documentation & Management**  | Excel • Jira • XMind                                                                       |
-|  **API & JSON**                  | Postman • Newman • JSON • JSONPath Finder                                                  |
-|  **Performance & Web Testing**   | SQL • MySQL                                                                                |
-|  **Programming**                 | Java                                                                                       |
-|  **Automation**                  | Eclipse • Selenium • Playwright • Cucumber                                                 |
-|  **CI/CD**                       | Jenkins                                                                                    |
-|  **Version Control**             | Git • GitHub                                                                               |
+|  Testing                     | Manual Testing • API Testing • Performance Testing • Database Testing • Automation Testing |
+|  Documentation & Management  | Excel • Jira • XMind                                                                       |
+|  API Testing                | Postman • Newman • JSON • JSONPath Finder                                                  |
+|  Performance Testing                | Jmeter • lighthouse  •  Blaze Meter                                             |
+|  Database Testing  | SQL • MySQL                                                                                |
+|  Programming  Language              | Java                                                                                       |
+|  Automation Testing                | Eclipse • Selenium • Playwright • Cucumber                                                 |
+|  CI/CD                      | Jenkins                                                                                    |
+|  Version Control            | Git • GitHub                                                                               |
 
 ---
 
